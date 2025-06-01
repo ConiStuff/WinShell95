@@ -12,3 +12,6 @@ C:\Users\User\AppData\Local\Temporary Projects\Shell95\obj\Debug\Shell95.ShellSt
 C:\Users\User\Documents\Visual Studio 2008\Projects\Shell95\Shell95\obj\Debug\Shell95.exe
 C:\Users\User\Documents\Visual Studio 2008\Projects\Shell95\Shell95\obj\Debug\Shell95.xml
 C:\Users\User\Documents\Visual Studio 2008\Projects\Shell95\Shell95\obj\Debug\Shell95.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\WinShell95\Shell95\obj\Debug\Shell95.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\WinShell95\Shell95\obj\Debug\Shell95.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\WinShell95\Shell95\obj\Debug\Shell95.pdb
